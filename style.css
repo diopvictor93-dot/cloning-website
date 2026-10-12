@@ -1,0 +1,83 @@
+*{ 
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{ 
+    background-color: #201313;
+    text-align: left;
+    padding-left: 190px;
+    padding-right: 190px;
+}
+
+.Header{
+    margin-top: 50px;
+    color: #FAF9F9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.topics button {
+    border-radius: 40px;
+    background-color: #201313;
+    color: #FAF9F9;
+    padding: 10px 10px;
+    
+}
+.new{
+    color: #FAF9F9;
+}
+
+.p {
+    color: #EAE6E4
+;
+}
+.paragraph{
+    color: #EAE6E4 ;
+}
+
+.theanchor{
+    color:#EAE6E4 ;
+}
+.Ann {
+    color: #DEDFE1;
+}
+
+.author{ 
+    color: white ;
+}
+.eight {
+     color: white ;
+}
+.seventh {
+     color: white ;
+}
+.sixth {
+     color: white ;
+}
+.fifth{
+     color: white ;
+}
+
+.fourth {
+     color: white ;
+}
+
+.third {
+     color: white ;
+}
+
+.second {
+     color: white ;
+    
+}
+
+.last {
+     color: white ;
+}
+.one {
+      color: white ;
+}
+
